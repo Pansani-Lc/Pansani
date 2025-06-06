@@ -13,10 +13,10 @@
 ## 🌐 Socials:
 
 <div style="text-align: center;">
-    <a href="https://www.instagram.com/_vich.lopes/">
+    <a href="https://www.instagram.com/lc.pansani/">
         <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/Instagram-1E46FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-    <a href="https://www.linkedin.com/in/victor-hugo-dev-/">
+    <a href="https://br.linkedin.com/in/lucaspansani">
         <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/LinkedIn-1E46FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://victorhlf42.github.io/VictorHLF42/curriculo_victor_hugo_lopes.PDF" target="_blank">
